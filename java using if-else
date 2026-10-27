@@ -1,0 +1,13 @@
+public class Main { 
+    public static void main(String[] args) {
+        int num1=90;
+        int num2=87;
+        if(num1>num2){
+            System.out.println("num 1 is greater than num 2");
+        }
+        else{
+            System.out.println("num 2 is greater than num 1");
+        }
+    }
+}
+
